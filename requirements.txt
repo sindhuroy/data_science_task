@@ -1,2 +1,4 @@
 gensim==4.1.2
 numpy==1.21.0
+gdown
+scikit-learn
